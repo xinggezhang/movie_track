@@ -1,4 +1,4 @@
-# YingJi (影迹)
+
 
 **A personal, offline-first Android movie & TV journal built with Kotlin and Jetpack Compose.**
 
